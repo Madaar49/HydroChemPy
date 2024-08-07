@@ -1,2 +1,4 @@
 # HydroChemPy
-A python web app that uses hydrochemical data and do data cleaning and plots
+A python web app for hydrochemical computation, data cleaning and plots
+
+Development in progress
